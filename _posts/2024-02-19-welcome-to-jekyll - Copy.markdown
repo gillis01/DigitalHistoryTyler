@@ -5,4 +5,4 @@ date:   2024-02-19 21:06:01 -0600
 categories: 
 image: /assets/Frankenstein.jpg
 ---
-assets/Frankenstein.jpg  
+DigitalHistoryTyler/assets/Frankenstein.jpg  
