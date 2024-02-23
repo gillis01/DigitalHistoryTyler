@@ -3,14 +3,5 @@ layout: page
 title: Main Page of the Author
 permalink: /about/
 ---
-I really just wanted to add to this page but I think the links are extremly helpful!  Please see below. 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+Mary Shelley (1797–1851) was an English novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel "Frankenstein: or, The Modern Prometheus" (1818).  The idea for "Frankenstein" came to her in a dream.  Her contributions to literature have been reevaluated in modern times, highlighting her as a significant figure in the Romantic literary movement.    
 
