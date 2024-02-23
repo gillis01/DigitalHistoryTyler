@@ -6,3 +6,4 @@ categories:
 image: ![Here](/assets/Frankenstein.jpg)
 ---
 DigitalHistoryTyler/assets/Frankenstein.jpg  
+![Here](https://i.imgur.com/HgZBsOJ.jpeg)
